@@ -1,7 +1,7 @@
 # POI-WiFi
 POI-WiFi
 # project character
-##obiettivo
+## obiettivo
 -sviluppare un'applicazione che consenta al'utente di visitare città, l'applicazione dovrà sostituire le classiche guide turistiche
 ## deliverable
 -le foto dei luoghi visitabili, le informazioni delle mete turistiche e la strutturazione della'applicazione
