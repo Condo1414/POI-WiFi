@@ -8,7 +8,7 @@ POI-WiFi
 ### milestone
 -applicazione funzionante, raggruppamento di tutte le foto, server 
 ### tempistica:
--l'inizio del progetto avverrà il 14/05/21 e durerà fino al 29/06/21
+-l'inizio del progetto avverrà il 21/04/21 e durerà fino al 15/05/21
 ### costi principlai
 -raccolta informazioni 40€, scatto foto 70€ sito web 500€+acquisto dominio 15€ all'anno, server 1500€
 ### risorse materiali 
