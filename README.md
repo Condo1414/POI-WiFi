@@ -13,4 +13,5 @@ POI-WiFi
 -raccolta informazioni 40€, scatto foto 70€ sito web 500€+acquisto dominio 15€ all'anno
 ### risorse materiali 
 macchine fotografiche, computer, server 
-### risorse umane fotografi, WEB developer, WEB designer e staff di supporto
+### risorse umane 
+-fotografi, WEB developer, WEB designer e staff di supporto
